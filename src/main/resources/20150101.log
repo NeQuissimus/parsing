@@ -1,0 +1,2140 @@
+Jan  1 00:13:44 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 00:13:53 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 00:13:53 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 00:13:53 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 00:13:53 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 00:13:55 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 00:27:32 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 00:27:41 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 00:27:41 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 00:27:41 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 00:27:41 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 00:27:43 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 00:28:54 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 00:46:13 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 00:46:13 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 00:46:13 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 00:46:13 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 00:46:13 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 00:51:39 10.30.26.1 Got new client [40:B0:FA:68:1F:63] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 00:51:41 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 00:51:41 10.30.26.1 Got new client [88:C9:D0:D5:B1:06] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 00:51:41 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 00:51:41 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 00:51:43 10.30.26.1 DHCP: Server receive REQUEST from 40:b0:fa:68:1f:63.
+Jan  1 00:51:43 10.30.26.1 DHCP: Server sending NAK to 40:b0:fa:68:1f:63.
+Jan  1 00:51:44 10.30.26.1 DHCP: Server receive DISCOVER from 40:b0:fa:68:1f:63.
+Jan  1 00:51:44 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.103 for static DHCP client.
+Jan  1 00:51:44 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 00:51:44 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 00:51:46 10.30.26.1 DHCP: Server receive DISCOVER from 88:c9:d0:d5:b1:06.
+Jan  1 00:51:46 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.118 for static DHCP client.
+Jan  1 00:51:46 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 00:51:46 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 00:51:48 10.30.26.1 DHCP: Server receive DISCOVER from 40:b0:fa:68:1f:63.
+Jan  1 00:51:48 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.103 for static DHCP client.
+Jan  1 00:51:56 10.30.26.1 DHCP: Server receive DISCOVER from 40:b0:fa:68:1f:63.
+Jan  1 00:51:56 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.103 for static DHCP client.
+Jan  1 00:52:15 10.30.26.1 DHCP: Server receive DISCOVER from 40:b0:fa:68:1f:63.
+Jan  1 00:52:15 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.103 for static DHCP client.
+Jan  1 00:52:15 10.30.26.1 DHCP: Server receive REQUEST from 40:b0:fa:68:1f:63.
+Jan  1 00:52:16 10.30.26.1 DHCP: Server sending ACK to 10.30.26.103. (Lease time = -1)
+Jan  1 00:52:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 00:52:43 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 00:52:43 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 00:52:43 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 00:52:43 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 00:52:43 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 00:58:54 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 00:59:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:01:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:01:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:02:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:02:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:02:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:07:38 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:07:38 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:07:38 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:07:38 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:07:38 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:12:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:12:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:13:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 01:14:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:17:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:18:25 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 01:18:33 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 01:18:33 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 01:18:33 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 01:18:33 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 01:24:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:24:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:27:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:28:23 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 01:28:31 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 01:28:31 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 01:28:31 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 01:28:31 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 01:28:33 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 01:28:54 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 01:32:31 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:33:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:37:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:38:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 01:42:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:42:48 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:42:48 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:44:36 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:44:36 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:44:50 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:44:50 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:45:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:45:10 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:45:10 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:45:51 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:45:51 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:47:39 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:47:39 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:48:16 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:48:16 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:48:57 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:50:06 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:50:06 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:50:19 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:50:20 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:50:41 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:50:41 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:50:53 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 01:50:53 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 01:50:53 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 01:50:53 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 01:50:53 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:50:53 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 01:51:35 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:51:35 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:51:50 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:51:50 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:51:59 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:51:59 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:52:13 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:52:13 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:52:27 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:52:27 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:52:39 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:52:39 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:53:01 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:53:01 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:53:20 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:53:20 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:53:32 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 01:53:32 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 01:56:52 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:57:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:57:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 01:58:55 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 02:00:51 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 02:00:51 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 02:00:51 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 02:00:51 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 02:00:51 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 02:00:53 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 02:02:57 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:05:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:06:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:07:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:16:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:16:46 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:23:05 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 02:23:13 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 02:23:13 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 02:23:13 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 02:23:13 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 02:23:15 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 02:28:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:28:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:28:25 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:28:54 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 02:33:02 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 02:33:11 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 02:33:11 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 02:33:11 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 02:33:11 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 02:33:13 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 02:35:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:35:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:39:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:39:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:39:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:40:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:40:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:40:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:45:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:45:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:50:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:51:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:51:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:55:28 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 02:55:28 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 02:55:28 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 02:55:28 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 02:55:28 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 02:55:38 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:57:26 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:57:26 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:57:26 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 02:58:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 02:58:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 02:58:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 02:58:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 02:58:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 02:58:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 02:58:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 02:58:54 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 02:59:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 03:02:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:03:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:03:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:03:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:05:31 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 03:05:31 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 03:05:31 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 03:05:31 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 03:05:31 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 03:05:33 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 03:05:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 03:09:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:09:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:15:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:15:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:15:52 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 03:16:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 03:16:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 03:20:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:21:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:21:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:21:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:27:44 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 03:27:48 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 03:27:48 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 03:27:48 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 03:27:48 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 03:27:50 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 03:28:54 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 03:30:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:30:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:31:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:37:46 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 03:37:46 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 03:37:46 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 03:37:46 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 03:37:47 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 03:38:39 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:38:39 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:40:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 03:45:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:45:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:45:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:45:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:45:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:45:31 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:46:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:46:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:47:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:49:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:53:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:53:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:53:51 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:55:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:57:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:57:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:57:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:57:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 03:58:55 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 03:59:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:00:12 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 04:00:12 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 04:00:12 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 04:00:13 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 04:00:13 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 04:00:14 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 04:01:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:03:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:03:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:05:37 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:05:37 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:10:03 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 04:10:11 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 04:10:11 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 04:10:11 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 04:10:11 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 04:10:13 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 04:13:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:15:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:15:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:15:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:15:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:15:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:15:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:15:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:15:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:16:24 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 04:16:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:16:33 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 04:16:33 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 04:16:33 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 04:16:33 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 04:16:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:16:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:16:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:16:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:20:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:23:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:23:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:23:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:24:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:24:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:26:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:28:54 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 04:31:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:31:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:31:21 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:32:25 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 04:32:32 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 04:32:32 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 04:32:32 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 04:32:33 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 04:32:34 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 04:35:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:35:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:35:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:35:21 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:37:21 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:37:21 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:37:21 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:39:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:44:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:44:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:45:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:45:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:45:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:45:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:45:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:45:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:45:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:48:51 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 04:48:51 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 04:48:51 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 04:48:51 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 04:48:52 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 04:48:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:48:55 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:51:53 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:54:21 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:57:31 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:57:31 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:57:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 04:58:54 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 04:59:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 04:59:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:03:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:04:48 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 05:04:48 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 05:04:48 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 05:04:48 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 05:04:49 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 05:04:50 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 05:05:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:06:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:08:37 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:09:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:09:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:09:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:09:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:09:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:09:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:13:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:13:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:13:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:13:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:14:57 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:19:52 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:21:03 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 05:21:11 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 05:21:11 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 05:21:11 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 05:21:11 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 05:21:12 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 05:21:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:22:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:24:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:24:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:26:43 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:26:43 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:28:55 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 05:34:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:35:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:37:12 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 05:37:12 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 05:37:12 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 05:37:12 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 05:37:13 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 05:37:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:37:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:39:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:39:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:40:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:45:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:45:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:45:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:45:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:45:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:45:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:45:26 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:45:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:45:40 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:45:57 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:46:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:46:53 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:46:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:48:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:52:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:52:38 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:53:31 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 05:53:31 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 05:53:31 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 05:53:31 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 05:53:31 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 05:53:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:53:33 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 05:53:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:53:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:53:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:53:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:53:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:54:48 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:54:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:57:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:57:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:57:37 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:57:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:57:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 05:58:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 05:58:55 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 06:00:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 06:00:13 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 06:00:13 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 06:00:40 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:02:23 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 06:02:23 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 06:03:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:03:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:03:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:03:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:04:47 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 06:04:47 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 06:05:26 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:05:47 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 06:05:47 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 06:05:57 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 06:05:57 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 06:06:07 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 06:06:07 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 06:06:21 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 06:06:21 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 06:06:34 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 06:06:34 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 06:06:55 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 06:06:55 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 06:07:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:09:23 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 06:09:32 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 06:09:32 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 06:09:32 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 06:09:32 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 06:09:34 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 06:09:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:09:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:16:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:16:21 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:20:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:23:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:25:43 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 06:25:51 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 06:25:51 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 06:25:51 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 06:25:51 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 06:25:53 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 06:28:56 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 06:29:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:29:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:29:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:29:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:32:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:34:51 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:35:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:38:44 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:40:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:40:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:41:52 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 06:41:52 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 06:41:52 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 06:41:52 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 06:41:52 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 06:45:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:45:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:48:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:51:25 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:57:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:58:11 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 06:58:11 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 06:58:11 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 06:58:11 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 06:58:11 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 06:58:13 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 06:58:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:58:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 06:58:56 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 07:03:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:03:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:03:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:03:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:03:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:03:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:04:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:04:39 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:05:21 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:06:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:09:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 07:10:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:12:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:12:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:14:04 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 07:14:12 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 07:14:12 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 07:14:12 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 07:14:12 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 07:14:14 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 07:18:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:18:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:26:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:26:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:28:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:28:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:28:56 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 07:30:23 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 07:30:26 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 07:30:26 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 07:30:26 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 07:30:26 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 07:30:28 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 07:31:44 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:31:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:31:46 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:32:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:32:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:32:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:32:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:32:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:32:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:32:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:32:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:32:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:32:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:33:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:33:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:33:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:33:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:34:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:34:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:39:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:40:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:40:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:45:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 07:45:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 07:45:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 07:45:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 07:45:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 07:46:31 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:46:32 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 07:46:32 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 07:46:32 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 07:46:32 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 07:46:32 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 07:46:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 07:46:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 07:48:26 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 07:48:26 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 07:48:26 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 07:48:26 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 07:48:27 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 07:48:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 07:48:37 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:48:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:48:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:48:59 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 07:49:00 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 07:49:00 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 07:49:00 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 07:49:30 10.30.26.1 DHCP: Server receive REQUEST from 10:dd:b1:a6:38:c8.
+Jan  1 07:49:30 10.30.26.1 DHCP: Server sending ACK to 10.30.27.101. (Lease time = -1)
+Jan  1 07:49:31 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 07:51:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:51:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:51:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 07:52:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 07:52:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:52:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:54:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:54:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 07:55:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:56:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 07:57:39 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:57:39 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:58:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 07:58:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 07:58:57 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 08:00:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:02:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:02:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:03:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:04:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:04:43 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:04:43 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:06:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:08:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:08:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:10:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:11:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:12:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:12:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:12:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:14:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:15:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:16:39 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:16:53 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:16:53 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:16:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:16:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:16:55 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:18:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:18:26 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:18:27 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 08:18:35 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 08:18:35 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 08:18:35 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 08:18:35 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 08:18:36 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 08:18:40 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:18:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:19:12 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 08:19:12 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 08:19:12 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 08:19:12 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 08:19:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:21:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:23:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:23:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:23:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:25:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:27:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:28:57 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 08:29:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:29:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:29:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:29:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:31:57 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:32:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:33:54 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 08:33:56 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 08:33:56 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 08:33:56 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 08:33:56 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 08:33:57 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 08:34:51 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:34:52 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:36:21 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 08:36:21 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 08:36:21 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 08:36:21 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 08:36:22 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 08:36:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:36:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:37:25 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:38:18 10.30.26.1 Got new client [C4:73:1E:C7:B4:B0] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 08:38:19 10.30.26.1 DHCP: Server receive DISCOVER from c4:73:1e:c7:b4:b0.
+Jan  1 08:38:19 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.104 for static DHCP client.
+Jan  1 08:38:19 10.30.26.1 DHCP: Server receive REQUEST from c4:73:1e:c7:b4:b0.
+Jan  1 08:38:19 10.30.26.1 DHCP: Server sending ACK to 10.30.26.104. (Lease time = -1)
+Jan  1 08:39:51 10.30.26.1 DHCP: Server receive REQUEST from 10:40:f3:99:85:00.
+Jan  1 08:39:51 10.30.26.1 DHCP: Server sending ACK to 10.30.26.120. (Lease time = -1)
+Jan  1 08:39:51 10.30.26.1 Got new client [10:40:F3:99:85:00] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 08:39:53 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 08:42:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:42:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:42:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:43:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:44:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:45:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:45:53 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:47:53 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:47:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:49:53 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:52:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:52:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:53:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.112][LAN-1]
+Jan  1 08:55:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:55:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:55:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:55:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 08:57:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:57:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:57:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:57:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:58:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 08:58:57 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 08:59:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:01:48 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:03:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:03:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:04:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:04:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:05:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:05:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:05:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:05:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:06:14 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 09:06:22 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 09:06:22 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 09:06:22 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 09:06:22 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 09:06:24 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 09:06:32 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 09:06:32 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 09:06:32 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 09:06:32 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 09:06:53 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:07:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.106][LAN-1]
+Jan  1 09:11:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:13:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:17:44 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:17:44 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:17:44 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:17:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:17:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:18:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:21:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:21:44 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:25:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:27:40 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:28:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:28:58 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 09:33:44 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:33:55 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:38:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:38:51 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 09:38:51 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 09:38:51 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 09:38:51 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 09:38:51 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 09:39:17 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 09:39:17 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 09:39:17 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 09:39:17 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 09:39:18 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 09:41:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:41:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:41:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:41:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:41:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:41:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:41:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:41:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:41:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:42:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:42:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:43:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:43:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:43:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:43:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:43:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:43:57 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:44:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:45:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:45:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:45:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:45:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:45:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:45:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:45:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:45:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:45:51 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:45:53 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:46:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:46:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:47:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:47:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:47:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:47:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:47:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:47:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:48:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:48:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:48:52 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:48:52 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:48:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:48:57 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:49:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:49:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:49:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:49:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:49:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:49:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:49:48 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:50:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:51:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:51:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:51:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:52:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:52:52 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:52:52 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:52:52 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:52:52 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:53:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:53:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:54:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:54:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:54:31 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:54:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:54:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:55:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:55:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:55:25 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:55:25 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:55:25 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:55:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:55:32 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 09:55:41 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 09:55:41 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 09:55:41 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 09:55:41 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 09:55:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:56:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:56:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:56:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:56:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:56:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:56:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:56:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:56:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:56:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:56:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:56:44 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:56:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:57:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:57:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:57:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:57:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:57:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:57:31 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:57:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:57:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 09:58:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:58:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:58:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:58:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:58:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:58:57 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 09:59:13 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 09:59:15 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 09:59:15 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 09:59:15 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 09:59:15 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 09:59:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 09:59:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:00:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:00:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:00:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:00:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:00:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:01:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:01:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:01:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:02:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:02:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:02:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:02:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:02:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:02:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:02:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:03:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:03:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:03:26 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:07:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:07:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:08:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:10:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:14:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:14:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:15:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:16:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:17:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:19:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:19:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:19:39 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:19:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:20:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:20:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:20:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:20:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:20:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:20:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:20:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:20:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:20:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:20:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:20:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:20:46 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:20:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:21:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:21:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:21:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:21:48 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:22:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:22:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:22:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:22:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:22:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:22:43 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:22:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:23:48 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:23:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:23:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:24:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:24:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:24:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:24:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:24:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:24:43 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:24:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:25:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:25:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:25:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:26:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:26:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:26:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:26:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:26:43 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:27:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:27:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:27:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:27:52 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 10:27:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:27:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:28:01 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 10:28:01 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 10:28:01 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 10:28:01 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 10:28:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:28:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:28:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:28:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:28:58 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 10:29:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:29:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:30:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:30:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:30:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:30:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:31:24 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 10:31:32 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 10:31:32 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 10:31:32 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 10:31:32 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 10:31:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:31:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:31:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:31:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:31:57 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:31:57 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:32:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:32:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:32:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:32:21 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:33:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:34:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:34:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:35:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:35:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:35:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:35:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:35:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:37:52 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 10:37:52 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 10:37:52 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 10:37:52 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 10:37:52 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 10:37:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:38:26 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 10:38:26 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 10:38:26 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 10:38:26 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 10:38:26 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 10:40:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:40:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:43:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:46:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:46:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:46:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:48:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:48:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 10:55:25 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:58:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:58:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:58:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:58:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:58:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:58:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:58:58 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 10:59:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:59:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:59:43 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:59:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 10:59:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:01:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:02:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:03:21 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:03:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:03:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:03:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:04:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.106][LAN-1]
+Jan  1 11:05:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:05:29 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 11:05:36 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 11:05:36 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 11:05:36 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 11:05:36 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 11:05:38 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 11:05:44 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:06:48 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 11:06:48 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 11:07:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:07:21 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:07:44 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:09:21 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:09:44 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:10:11 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 11:10:11 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 11:10:11 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 11:10:11 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 11:11:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:11:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:13:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:13:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:15:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:15:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:17:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:17:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:19:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:19:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:19:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:20:38 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:23:42 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 11:23:44 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 11:23:44 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 11:23:44 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 11:23:44 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 11:25:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:28:59 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 11:30:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:30:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:31:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:33:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:34:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 11:35:59 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 11:35:59 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 11:35:59 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 11:35:59 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 11:35:59 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 11:38:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:38:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:38:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:38:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:42:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 11:43:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:43:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:44:01 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 11:44:01 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 11:44:01 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 11:44:01 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 11:44:01 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 11:44:03 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 11:45:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 11:45:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 11:45:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 11:45:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 11:45:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 11:46:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:46:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 11:48:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 11:51:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:51:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 11:55:51 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 11:57:55 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 11:58:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:58:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:58:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:58:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:58:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:58:25 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:58:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:58:55 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 11:58:59 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 11:59:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:00:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:02:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:03:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:03:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:03:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:03:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:03:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:03:31 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:03:40 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:03:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:03:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:04:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:04:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:04:39 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:04:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:05:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:05:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:05:46 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:05:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:07:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:07:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:07:46 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:07:57 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:08:03 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 12:08:12 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 12:08:12 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 12:08:12 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 12:08:12 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 12:08:14 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 12:09:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:09:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:09:57 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:11:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:11:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:11:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:11:57 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:13:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:13:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:13:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:13:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:15:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:15:48 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:15:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:16:12 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 12:16:21 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 12:16:21 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 12:16:21 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 12:16:21 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 12:16:23 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 12:17:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:17:48 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:17:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:18:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:18:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:18:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:18:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:18:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:18:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:18:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:19:51 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:19:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:19:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:20:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:20:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:20:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:21:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:21:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:21:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:21:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:21:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:22:53 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:23:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:23:21 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:25:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:25:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:25:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:26:57 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:29:00 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 12:29:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:31:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:31:15 10.30.26.1 DHCP: Server receive REQUEST from 00:22:48:b4:0c:a4.
+Jan  1 12:31:15 10.30.26.1 DHCP: Server sending ACK to 10.30.27.107. (Lease time = -1)
+Jan  1 12:31:24 10.30.26.1 DHCP: Server receive REQUEST from 10:dd:b1:a6:38:c8.
+Jan  1 12:31:24 10.30.26.1 DHCP: Server sending ACK to 10.30.27.101. (Lease time = -1)
+Jan  1 12:31:28 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 12:31:32 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 12:31:37 10.30.26.1 Got new client [C4:73:1E:C7:B4:B0] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 12:31:38 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 12:31:39 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:31:44 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 12:31:46 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:31:51 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 12:31:51 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 12:31:51 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 12:31:51 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 12:31:51 10.30.26.1 DHCP: Server receive DISCOVER from c4:73:1e:c7:b4:b0.
+Jan  1 12:31:51 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.104 for static DHCP client.
+Jan  1 12:31:51 10.30.26.1 DHCP: Server receive REQUEST from c4:73:1e:c7:b4:b0.
+Jan  1 12:31:51 10.30.26.1 DHCP: Server sending ACK to 10.30.26.104. (Lease time = -1)
+Jan  1 12:31:51 10.30.26.1 Got new client [C4:73:1E:C7:B4:B0] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 12:31:51 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 12:31:53 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:32:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:32:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:32:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:33:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:33:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:34:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:34:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:35:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:35:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:37:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:37:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:37:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:38:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:38:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:38:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:39:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:39:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:39:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:40:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:40:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:40:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:40:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:40:48 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:40:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:40:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:40:57 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:41:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:41:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:41:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:42:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:43:48 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:44:29 10.30.26.1 DHCP: Server receive REQUEST from 10:dd:b1:a6:38:c8.
+Jan  1 12:44:29 10.30.26.1 DHCP: Server sending ACK to 10.30.27.101. (Lease time = -1)
+Jan  1 12:45:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:47:55 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:47:57 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:48:36 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 12:48:36 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 12:48:36 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 12:48:36 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 12:48:36 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 12:48:37 10.30.26.1 Got new client [C4:73:1E:C7:B4:B0] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 12:48:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:48:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 12:53:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:53:46 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:56:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:58:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:58:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:58:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:58:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:58:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:58:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:58:31 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:58:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 12:59:00 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 12:59:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:00:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:00:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:00:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:03:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:03:26 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:03:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:03:48 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:03:52 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 13:03:52 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 13:03:52 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 13:03:52 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 13:03:53 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 13:03:54 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 13:03:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:03:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:04:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:04:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:06:02 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 13:06:02 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 13:06:02 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 13:06:02 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 13:06:03 10.30.26.1 Got new client [C4:73:1E:C7:B4:B0] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 13:06:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:06:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:07:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:08:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:10:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:11:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:13:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:14:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:15:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:15:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:15:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:15:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:15:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:15:27 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 13:15:35 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 13:15:35 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 13:15:35 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 13:15:35 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 13:15:37 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 13:15:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:15:57 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 13:15:57 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 13:15:57 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 13:15:57 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 13:19:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:19:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:19:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:19:40 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:21:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:21:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:21:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:21:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:21:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:21:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:23:40 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:25:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:27:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:27:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:27:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:27:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:27:21 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:27:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:27:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:27:57 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:28:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:29:01 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 13:31:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:31:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:32:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:32:39 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:33:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:33:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:33:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:34:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:35:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:35:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:36:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:36:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:36:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:39:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:40:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:42:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:43:54 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 13:43:54 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 13:43:54 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 13:43:54 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 13:43:55 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 13:45:38 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:46:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:47:51 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 13:47:51 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 13:47:51 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 13:47:51 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 13:47:51 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 13:47:52 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:57:35 10.30.26.1 Got new client [C4:73:1E:C7:B4:B0] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 13:57:36 10.30.26.1 DHCP: Server receive DISCOVER from c4:73:1e:c7:b4:b0.
+Jan  1 13:57:36 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.104 for static DHCP client.
+Jan  1 13:57:36 10.30.26.1 DHCP: Server receive REQUEST from c4:73:1e:c7:b4:b0.
+Jan  1 13:57:36 10.30.26.1 DHCP: Server sending ACK to 10.30.26.104. (Lease time = -1)
+Jan  1 13:57:36 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 13:57:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:58:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 13:58:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:58:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:58:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:58:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:58:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:58:38 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 13:58:48 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 13:58:48 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 13:58:48 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 13:58:48 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 13:58:50 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 13:59:01 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 14:00:21 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:03:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:03:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:03:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:08:46 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:17:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:17:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:17:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:17:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:17:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:17:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:17:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:17:37 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:18:15 10.30.26.1 DHCP: Server receive REQUEST from 10:dd:b1:a6:38:c8.
+Jan  1 14:18:15 10.30.26.1 DHCP: Server sending ACK to 10.30.27.101. (Lease time = -1)
+Jan  1 14:19:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:20:03 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 14:20:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:20:09 10.30.26.1 DHCP: Server receive REQUEST from 10:dd:b1:a6:38:c8.
+Jan  1 14:20:09 10.30.26.1 DHCP: Server sending ACK to 10.30.27.101. (Lease time = -1)
+Jan  1 14:20:11 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 14:20:11 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 14:20:11 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 14:20:11 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 14:20:12 10.30.26.1 Got new client [88:C9:D0:D5:B1:06] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 14:20:35 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 14:20:35 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 14:20:36 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 14:21:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:22:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:26:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:26:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:28:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:28:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:28:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:28:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:28:43 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:29:02 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 14:29:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:29:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:30:54 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 14:31:02 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 14:31:02 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 14:31:02 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 14:31:02 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 14:31:04 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 14:32:21 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:34:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:35:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:46:29 10.30.26.1 DHCP: Server receive REQUEST from 00:0c:8a:57:0d:3a.
+Jan  1 14:46:29 10.30.26.1 DHCP: Server sending ACK to 10.30.26.117. (Lease time = -1)
+Jan  1 14:46:29 10.30.26.1 Got new client [00:0C:8A:57:0D:3A] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 14:46:37 10.30.26.1 DHCP: Server receive DISCOVER from 00:0c:8a:57:0d:3a.
+Jan  1 14:46:37 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.117 for static DHCP client.
+Jan  1 14:46:37 10.30.26.1 Got new client [00:0C:8A:57:0D:3A] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 14:46:42 10.30.26.1 DHCP: Server receive DISCOVER from 00:0c:8a:57:0d:3a.
+Jan  1 14:46:42 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.117 for static DHCP client.
+Jan  1 14:46:42 10.30.26.1 DHCP: Server receive REQUEST from 00:0c:8a:57:0d:3a.
+Jan  1 14:46:42 10.30.26.1 DHCP: Server sending ACK to 10.30.26.117. (Lease time = -1)
+Jan  1 14:52:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:52:26 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 14:52:26 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 14:52:26 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 14:52:26 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 14:52:27 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 14:52:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:52:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:52:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:52:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:52:31 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:52:37 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:52:44 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:53:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:53:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:53:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:53:31 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:53:37 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:54:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:54:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:54:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:54:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:54:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:54:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:54:43 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:54:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:54:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:55:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:55:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:55:31 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:55:31 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:56:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:56:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:57:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:57:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:58:25 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:58:37 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:58:37 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 14:59:02 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 15:00:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:00:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:00:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:00:26 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:00:26 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:00:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:00:37 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:00:46 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:00:55 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:01:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:02:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:02:38 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:02:38 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:02:44 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:03:22 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 15:03:22 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 15:03:22 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 15:03:22 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 15:03:22 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 15:03:24 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 15:04:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:04:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:04:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:04:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:05:55 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:06:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:06:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:08:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:08:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:08:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 15:09:10 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 15:09:10 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 15:09:13 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 15:09:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:09:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:09:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:11:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:11:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:11:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:13:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:13:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:17:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:18:48 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:24:43 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 15:24:51 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 15:24:51 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 15:24:51 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 15:24:51 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 15:24:52 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 15:27:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:29:02 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 15:30:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:31:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:31:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:32:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:32:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:32:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:33:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:33:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:33:31 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:35:42 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 15:35:42 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 15:35:42 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 15:35:42 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 15:35:42 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 15:38:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:38:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:39:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:39:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:39:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:41:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:41:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:41:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:41:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:41:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:44:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 15:45:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 15:45:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 15:45:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 15:45:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 15:45:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 15:45:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 15:46:00 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:46:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:46:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:46:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 15:46:25 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:46:25 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:47:52 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 15:50:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 15:50:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 15:51:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:53:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:55:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:56:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 15:57:24 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 15:57:32 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 15:57:32 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 15:57:32 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 15:57:32 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 15:57:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 15:58:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:58:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:58:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:58:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:58:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:58:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:58:53 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:59:02 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 15:59:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 15:59:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:00:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:00:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:01:50 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 16:01:50 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 16:01:51 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 16:01:51 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 16:01:51 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 16:03:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:06:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:06:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:06:40 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:18:38 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:21:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:21:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:21:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:21:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:22:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 16:22:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 16:22:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 16:22:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 16:22:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 16:22:22 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 16:22:30 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 16:22:30 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 16:22:30 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 16:22:31 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 16:22:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 16:22:32 10.30.26.1 Got new client [C4:73:1E:C7:B4:B0] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 16:29:03 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 16:29:44 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 16:29:52 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 16:29:52 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 16:29:52 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 16:29:52 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 16:29:55 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 16:30:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 16:31:27 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 16:31:27 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 16:31:27 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 16:31:27 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 16:31:28 10.30.26.1 Got new client [C4:73:1E:C7:B4:B0] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 16:31:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:31:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:31:51 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:34:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 16:34:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 16:34:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 16:34:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:34:48 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:34:48 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 16:59:03 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 17:02:01 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 17:02:01 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 17:02:01 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 17:02:01 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 17:02:02 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 17:02:03 10.30.26.1 Got new client [40:B0:FA:68:1F:63] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 17:04:11 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 17:04:12 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 17:04:12 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 17:04:12 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 17:04:12 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 17:29:03 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 17:34:17 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 17:34:17 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 17:34:17 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 17:34:17 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 17:34:17 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 17:36:30 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 17:36:30 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 17:36:31 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 17:36:31 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 17:36:31 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 17:59:04 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 18:06:33 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 18:06:42 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 18:06:42 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 18:06:42 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 18:06:42 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 18:08:43 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 18:08:46 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 18:08:46 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 18:08:46 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 18:08:46 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 18:29:04 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 18:39:02 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 18:39:02 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 18:39:02 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 18:39:02 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 18:39:02 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 18:41:10 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 18:41:10 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 18:41:10 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 18:41:11 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 18:41:11 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 18:58:13 10.30.26.1 Got new client [40:B0:FA:68:1F:63] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 18:58:14 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 18:58:17 10.30.26.1 DHCP: Server receive REQUEST from 40:b0:fa:68:1f:63.
+Jan  1 18:58:18 10.30.26.1 DHCP: Server sending NAK to 40:b0:fa:68:1f:63.
+Jan  1 18:58:18 10.30.26.1 DHCP: Server receive DISCOVER from 40:b0:fa:68:1f:63.
+Jan  1 18:58:18 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.103 for static DHCP client.
+Jan  1 18:58:18 10.30.26.1 DHCP: Server receive REQUEST from 40:b0:fa:68:1f:63.
+Jan  1 18:58:18 10.30.26.1 DHCP: Server sending ACK to 10.30.26.103. (Lease time = -1)
+Jan  1 18:59:03 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 18:59:44 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 18:59:53 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 18:59:53 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 18:59:53 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 18:59:53 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 18:59:54 10.30.26.1 Got new client [88:C9:D0:D5:B1:06] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 18:59:54 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 18:59:54 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 19:03:20 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 19:03:25 10.30.26.1 DHCP: Server receive DISCOVER from 00:22:48:b4:0c:a4.
+Jan  1 19:03:25 10.30.26.1 DHCP: Server sending OFFER of 10.30.27.107 for static DHCP client.
+Jan  1 19:03:25 10.30.26.1 DHCP: Server receive REQUEST from 00:22:48:b4:0c:a4.
+Jan  1 19:03:25 10.30.26.1 DHCP: Server sending ACK to 10.30.27.107. (Lease time = -1)
+Jan  1 19:03:27 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 19:03:27 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 19:03:27 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 19:03:27 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 19:03:27 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 19:03:39 10.30.26.1 Got new client [C4:73:1E:C7:B4:B0] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 19:03:40 10.30.26.1 DHCP: Server receive DISCOVER from c4:73:1e:c7:b4:b0.
+Jan  1 19:03:40 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.104 for static DHCP client.
+Jan  1 19:03:40 10.30.26.1 DHCP: Server receive REQUEST from c4:73:1e:c7:b4:b0.
+Jan  1 19:03:40 10.30.26.1 DHCP: Server sending ACK to 10.30.26.104. (Lease time = -1)
+Jan  1 19:14:57 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 19:15:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 19:23:37 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 19:24:28 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 19:24:28 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 19:24:29 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 19:25:27 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 19:25:27 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 19:29:03 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 19:30:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 19:30:20 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 19:30:20 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 19:35:00 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 19:35:00 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 19:35:00 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 19:35:00 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 19:35:01 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 19:35:31 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 19:35:32 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 19:35:32 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 19:35:32 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 19:35:32 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 19:37:17 10.30.26.1 DHCP: Server receive REQUEST from c8:f6:50:6d:0c:e6.
+Jan  1 19:37:17 10.30.26.1 DHCP: Server sending ACK to 10.30.26.111. (Lease time = -1)
+Jan  1 19:37:17 10.30.26.1 DHCP: Server receive REQUEST from c8:f6:50:6d:0c:e6.
+Jan  1 19:37:17 10.30.26.1 DHCP: Server sending ACK to 10.30.26.111. (Lease time = -1)
+Jan  1 19:43:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.111][LAN-1]
+Jan  1 19:54:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 19:56:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 19:56:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 19:56:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 19:56:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 19:56:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 19:56:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 19:56:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 19:56:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 19:56:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 19:56:56 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 19:56:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 19:56:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 19:59:04 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 19:59:52 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 19:59:55 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 19:59:55 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 19:59:55 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 19:59:56 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 19:59:58 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 20:00:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:00:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:00:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:00:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:00:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:01:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:03:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:03:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:03:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:04:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:04:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:04:38 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:04:44 10.30.26.1 DHCP: Server receive REQUEST from 10:dd:b1:a6:38:c8.
+Jan  1 20:04:44 10.30.26.1 DHCP: Server sending ACK to 10.30.27.101. (Lease time = -1)
+Jan  1 20:04:50 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:05:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:05:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:07:13 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 20:07:20 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 20:07:20 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 20:07:20 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 20:07:20 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 20:07:23 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 20:07:26 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:09:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:11:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:12:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:13:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:13:51 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:13:51 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:22:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:22:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:23:13 10.30.26.1 Got new client [C4:73:1E:C7:B4:B0] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 20:23:14 10.30.26.1 DHCP: Server receive DISCOVER from c4:73:1e:c7:b4:b0.
+Jan  1 20:23:14 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.104 for static DHCP client.
+Jan  1 20:23:14 10.30.26.1 DHCP: Server receive REQUEST from c4:73:1e:c7:b4:b0.
+Jan  1 20:23:14 10.30.26.1 DHCP: Server sending ACK to 10.30.26.104. (Lease time = -1)
+Jan  1 20:23:15 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 20:23:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:23:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:25:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.106][LAN-1]
+Jan  1 20:27:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:29:04 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 20:29:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:32:03 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 20:32:11 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 20:32:11 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 20:32:11 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 20:32:11 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 20:32:14 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 20:34:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:37:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:39:40 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 20:39:40 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 20:39:40 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 20:39:40 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 20:39:41 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 20:40:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:41:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:42:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.106][LAN-1]
+Jan  1 20:43:40 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:45:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.106][LAN-1]
+Jan  1 20:47:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:48:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:48:22 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:48:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:48:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:48:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:48:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:49:46 10.30.26.1 ATT:001[SYN-ACK][10.30.26.106][LAN-1]
+Jan  1 20:50:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.106][LAN-1]
+Jan  1 20:51:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:51:14 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 20:51:17 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 20:51:18 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 20:51:18 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 20:51:18 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 20:51:36 10.30.26.1 ATT:001[SYN-ACK][54.205.17.199][eth1]
+Jan  1 20:51:59 10.30.26.1 ATT:001[SYN-ACK][54.205.17.199][eth1]
+Jan  1 20:52:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:52:24 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 20:52:24 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 20:52:24 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 20:52:24 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 20:52:25 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 20:52:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:52:46 10.30.26.1 ATT:001[SYN-ACK][54.205.17.199][eth1]
+Jan  1 20:55:09 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 20:55:09 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 20:55:09 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 20:55:10 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 20:55:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:55:28 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 20:55:28 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 20:55:28 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 20:55:28 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 20:56:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:58:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:58:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:58:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:58:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:58:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:58:25 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 20:58:44 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 20:59:05 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 21:01:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 21:03:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 21:06:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:11:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 21:11:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 21:11:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 21:11:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 21:11:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 21:11:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 21:11:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 21:11:42 10.30.26.1 ATT:001[SYN-ACK][10.30.26.106][LAN-1]
+Jan  1 21:12:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 21:12:51 10.30.26.1 ATT:001[SYN-ACK][10.30.26.106][LAN-1]
+Jan  1 21:14:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 21:14:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:15:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:15:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:15:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:15:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:15:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:15:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:15:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:17:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:18:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:23:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:23:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:24:30 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:25:24 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 21:25:32 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 21:25:32 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 21:25:32 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 21:25:32 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 21:25:37 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 21:25:44 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 21:25:44 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 21:25:44 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 21:25:44 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 21:25:51 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 21:29:05 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 21:30:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:30:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:33:37 10.30.26.1 ATT:001[SYN-ACK][10.30.26.106][LAN-1]
+Jan  1 21:34:04 10.30.26.1 Got new client [18:B4:30:2C:C0:95] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 21:34:05 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:2c:c0:95.
+Jan  1 21:34:05 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.112 for static DHCP client.
+Jan  1 21:34:05 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:2c:c0:95.
+Jan  1 21:34:05 10.30.26.1 DHCP: Server sending ACK to 10.30.26.112. (Lease time = -1)
+Jan  1 21:34:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:34:40 10.30.26.1 Got new client [18:B4:30:2C:C0:95] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 21:34:40 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:2c:c0:95.
+Jan  1 21:34:40 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.112 for static DHCP client.
+Jan  1 21:34:40 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:2c:c0:95.
+Jan  1 21:34:40 10.30.26.1 DHCP: Server sending ACK to 10.30.26.112. (Lease time = -1)
+Jan  1 21:34:43 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:34:58 10.30.26.1 ATT:001[SYN-ACK][10.30.26.106][LAN-1]
+Jan  1 21:40:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:42:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:42:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:48:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:48:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:48:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:48:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:48:32 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:48:39 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:48:46 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:52:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 21:52:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:52:40 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:54:40 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:54:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:54:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:55:26 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 21:55:26 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 21:55:26 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 21:55:26 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 21:55:26 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 21:55:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:55:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:55:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:55:51 10.30.26.1 ATT:001[SYN-ACK][10.30.26.106][LAN-1]
+Jan  1 21:56:51 10.30.26.1 ATT:001[SYN-ACK][10.30.26.106][LAN-1]
+Jan  1 21:57:45 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 21:57:46 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 21:57:46 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 21:57:46 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 21:57:46 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 21:57:49 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:58:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:58:35 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 21:58:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 21:59:05 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 22:02:44 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:11:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:11:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:11:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:11:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:11:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:11:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:12:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:15:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:15:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:15:03 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:19:04 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:19:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:22:45 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:23:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:23:05 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:23:06 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:23:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:23:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:27:13 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 22:27:20 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 22:27:20 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 22:27:20 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 22:27:20 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 22:27:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:29:05 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 22:30:03 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 22:30:10 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 22:30:10 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 22:30:10 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 22:30:10 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 22:30:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:31:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:31:07 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:31:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:31:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:31:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:31:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:31:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:31:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:31:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:31:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:31:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:32:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:32:48 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:33:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:33:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:33:45 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 22:33:53 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 22:33:53 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 22:33:53 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 22:33:53 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 22:33:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:34:04 10.30.26.1 Got new client [40:B0:FA:68:1F:63] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 22:34:08 10.30.26.1 DHCP: Server receive REQUEST from 40:b0:fa:68:1f:63.
+Jan  1 22:34:08 10.30.26.1 DHCP: Server sending ACK to 10.30.26.103. (Lease time = -1)
+Jan  1 22:34:10 10.30.26.1 ATT:001[SYN-ACK][10.152.199.36][LAN-1]
+Jan  1 22:34:10 10.30.26.1 ATT:001[SYN-ACK][10.152.199.36][LAN-1]
+Jan  1 22:34:10 10.30.26.1 ATT:001[SYN-ACK][10.152.199.36][LAN-1]
+Jan  1 22:34:10 10.30.26.1 ATT:001[SYN-ACK][10.152.199.36][LAN-1]
+Jan  1 22:34:10 10.30.26.1 ATT:001[SYN-ACK][10.152.199.36][LAN-1]
+Jan  1 22:34:13 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 22:34:13 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 22:34:13 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 22:34:13 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 22:34:13 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 22:34:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:38:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:38:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:41:25 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:41:25 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:41:37 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 22:41:45 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 22:41:46 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 22:41:46 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 22:41:46 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 22:41:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:41:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:41:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:41:48 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 22:42:55 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 22:42:55 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 22:42:55 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 22:42:56 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 22:43:51 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:43:51 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:43:59 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:44:02 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:44:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:44:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:44:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:44:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:44:19 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:44:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:44:54 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:45:01 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:45:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:45:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:47:26 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:49:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:49:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:49:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:49:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:49:29 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:49:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:49:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:49:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:49:53 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:50:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:50:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:50:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:50:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:50:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:50:47 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:51:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:52:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 22:53:31 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:53:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:53:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:53:36 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:54:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:56:41 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:56:48 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 22:59:05 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 23:00:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:00:17 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:00:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:00:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:00:23 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:00:51 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:02:40 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 23:02:43 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:03:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:04:33 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:04:34 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:05:11 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 23:05:18 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 23:05:18 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 23:05:18 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 23:05:18 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 23:05:20 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:05:20 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 23:05:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:05:24 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:06:43 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:11:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 23:11:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 23:11:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 23:11:10 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 23:11:11 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 23:11:42 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 23:11:50 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 23:11:50 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 23:11:50 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 23:11:50 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 23:11:53 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 23:11:53 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:13:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 23:13:27 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 23:17:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 23:17:09 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 23:19:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:19:28 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:29:06 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
+Jan  1 23:29:12 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 23:29:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 23:33:14 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:33:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:35:30 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:22:63:ef.
+Jan  1 23:35:30 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.116 for static DHCP client.
+Jan  1 23:35:30 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:22:63:ef.
+Jan  1 23:35:30 10.30.26.1 DHCP: Server sending ACK to 10.30.26.116. (Lease time = -1)
+Jan  1 23:35:31 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 23:38:15 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 23:38:16 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 23:40:10 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 23:40:10 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 23:40:46 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 23:40:46 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 23:42:15 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 23:42:16 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 23:43:09 10.30.26.1 DHCP: Server receive REQUEST from 88:c9:d0:d5:b1:06.
+Jan  1 23:43:09 10.30.26.1 DHCP: Server sending ACK to 10.30.26.118. (Lease time = -1)
+Jan  1 23:44:11 10.30.26.1 DHCP: Server receive DISCOVER from 18:b4:30:23:aa:67.
+Jan  1 23:44:11 10.30.26.1 DHCP: Server sending OFFER of 10.30.26.115 for static DHCP client.
+Jan  1 23:44:11 10.30.26.1 DHCP: Server receive REQUEST from 18:b4:30:23:aa:67.
+Jan  1 23:44:11 10.30.26.1 DHCP: Server sending ACK to 10.30.26.115. (Lease time = -1)
+Jan  1 23:44:12 10.30.26.1 Got new client [18:B4:30:23:AA:67] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 23:44:13 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 23:44:13 10.30.26.1 Got new client [18:B4:30:22:63:EF] associated from BAND24G-1.1 (2.4 Ghz)
+Jan  1 23:44:18 10.30.26.1 ATT:001[SYN-ACK][10.30.26.103][LAN-1]
+Jan  1 23:50:08 10.30.26.1 ATT:001[SYN-ACK][10.30.26.118][LAN-1]
+Jan  1 23:59:06 10.30.26.1 DHCP: Client receive ACK from 192.0.240.1, IP=198.48.238.170, Lease time=3600.
